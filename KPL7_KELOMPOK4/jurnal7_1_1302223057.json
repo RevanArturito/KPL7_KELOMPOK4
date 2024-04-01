@@ -1,0 +1,21 @@
+{
+   "firstName": "Cokorda",
+   "lastName": "Arturito Revan Putra Diarta",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Lengkong",
+       "city": "Bandung",
+       "state": "Jawa Barat"
+   },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "UAJXD2",
+      "name": "AGAMA HINDU"
+    }
+  ]
+}
