@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj": {}
+    "D:\\r\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj": {}
   },
   "projects": {
-    "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj": {
+    "D:\\r\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj",
+        "projectUniqueName": "D:\\r\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj",
         "projectName": "KPL7_KELOMPOK4",
-        "projectPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\obj\\",
+        "projectPath": "D:\\r\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj",
+        "packagesPath": "C:\\Users\\shadk\\.nuget\\packages\\",
+        "outputPath": "D:\\r\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shadk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
