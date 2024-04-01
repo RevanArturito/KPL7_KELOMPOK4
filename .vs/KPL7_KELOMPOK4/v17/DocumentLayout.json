@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\",
+  "WorkspaceRootPath": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|d:\\revan\\materi kuliah\\semester 4\\praktikum kpl\\kpl7_kelompok4\\kpl7_kelompok4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|solutionrelative:kpl7_kelompok4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\JurnalMOD7\\KPL7_KELOMPOK4\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\DataMahasiswa_1302223028.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KPL7_KELOMPOK4\\DataMahasiswa_1302223028.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KPL7_KELOMPOK4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\jurnal7_1_1302223028.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KPL7_KELOMPOK4\\jurnal7_1_1302223028.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-01T00:48:56.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\Program.cs",
+              "DocumentMoniker": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\Program.cs",
               "RelativeDocumentMoniker": "KPL7_KELOMPOK4\\Program.cs",
-              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\Program.cs",
+              "ToolTip": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\Program.cs",
               "RelativeToolTip": "KPL7_KELOMPOK4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T23:49:23.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataMahasiswa_1302223028.cs",
+              "DocumentMoniker": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\DataMahasiswa_1302223028.cs",
+              "RelativeDocumentMoniker": "KPL7_KELOMPOK4\\DataMahasiswa_1302223028.cs",
+              "ToolTip": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\DataMahasiswa_1302223028.cs",
+              "RelativeToolTip": "KPL7_KELOMPOK4\\DataMahasiswa_1302223028.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:05:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jurnal7_1_1302223028.json",
+              "DocumentMoniker": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\jurnal7_1_1302223028.json",
+              "RelativeDocumentMoniker": "KPL7_KELOMPOK4\\jurnal7_1_1302223028.json",
+              "ToolTip": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\jurnal7_1_1302223028.json",
+              "RelativeToolTip": "KPL7_KELOMPOK4\\jurnal7_1_1302223028.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T00:01:24.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KPL7_KELOMPOK4.csproj",
+              "DocumentMoniker": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj",
+              "RelativeDocumentMoniker": "KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj",
+              "ToolTip": "D:\\JurnalMOD7\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj",
+              "RelativeToolTip": "KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-31T23:58:59.338Z",
               "EditorCaption": ""
             }
           ]
