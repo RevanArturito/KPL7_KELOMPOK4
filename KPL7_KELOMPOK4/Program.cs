@@ -13,5 +13,9 @@ public class Program
         Console.WriteLine();
         DataMember1302223057 member = new DataMember1302223057();
         member.ReadJSON();  
+
+        Console.WriteLine();
+        DataGlossary1302223057 glossary = new DataGlossary1302223057();
+        glossary.ReadJSON();
     }
 }
