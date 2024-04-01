@@ -9,5 +9,9 @@ public class Program
     {
         DataMahasiswa1302223057 mahasiswa = new DataMahasiswa1302223057();
         mahasiswa.ReadJSON();
+
+        Console.WriteLine();
+        DataMember1302223057 member = new DataMember1302223057();
+        member.ReadJSON();  
     }
 }

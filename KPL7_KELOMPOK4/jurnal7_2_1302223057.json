@@ -1,0 +1,46 @@
+{
+  "members" : [
+    {
+      "firstName": "RD.M",
+      "lastName": "FAISAL RAMADHAN JUNAIDI",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302220093"
+    },
+    {
+       "firstName": "COKORDA",
+       "lastName": "ARTURITO REVAN PUTRA DIARTA",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223057"
+    },
+    {
+      "firstName": "RIFQI",
+      "lastName": "ALGHIFARI",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223028"
+    },
+    {
+      "firstName": "FARREL",
+      "lastName": "HAYKAL GIFFARI",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223064"
+    },
+    {
+      "firstName": "FAISAL",
+      "lastName": "HARITS AL-FAJRI",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223120"
+    },
+    {
+      "firstName": "RIVA",
+      "lastName": "",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223120"
+    }
+  ]
+}

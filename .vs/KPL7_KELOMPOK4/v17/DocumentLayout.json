@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|d:\\revan\\materi kuliah\\semester 4\\praktikum kpl\\kpl7_kelompok4\\kpl7_kelompok4\\jurnal7_2_1302223057.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|solutionrelative:kpl7_kelompok4\\jurnal7_2_1302223057.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|d:\\revan\\materi kuliah\\semester 4\\praktikum kpl\\kpl7_kelompok4\\kpl7_kelompok4\\datamahasiswa1302223057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|solutionrelative:kpl7_kelompok4\\datamahasiswa1302223057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|d:\\revan\\materi kuliah\\semester 4\\praktikum kpl\\kpl7_kelompok4\\kpl7_kelompok4\\jurnal7_1_1302223057.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|solutionrelative:kpl7_kelompok4\\jurnal7_1_1302223057.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|d:\\revan\\materi kuliah\\semester 4\\praktikum kpl\\kpl7_kelompok4\\kpl7_kelompok4\\datamember1302223057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|solutionrelative:kpl7_kelompok4\\datamember1302223057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B28E314F-BEEA-4083-89BF-0856A3363918}|KPL7_KELOMPOK4\\KPL7_KELOMPOK4.csproj|d:\\revan\\materi kuliah\\semester 4\\praktikum kpl\\kpl7_kelompok4\\kpl7_kelompok4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jurnal7_2_1302223057.json",
+              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\jurnal7_2_1302223057.json",
+              "RelativeDocumentMoniker": "KPL7_KELOMPOK4\\jurnal7_2_1302223057.json",
+              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\jurnal7_2_1302223057.json",
+              "RelativeToolTip": "KPL7_KELOMPOK4\\jurnal7_2_1302223057.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwCoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T00:32:14.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataMember1302223057.cs",
+              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\DataMember1302223057.cs",
+              "RelativeDocumentMoniker": "KPL7_KELOMPOK4\\DataMember1302223057.cs",
+              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\DataMember1302223057.cs*",
+              "RelativeToolTip": "KPL7_KELOMPOK4\\DataMember1302223057.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:31:34.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DataMahasiswa1302223057.cs",
+              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\DataMahasiswa1302223057.cs",
+              "RelativeDocumentMoniker": "KPL7_KELOMPOK4\\DataMahasiswa1302223057.cs",
+              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\DataMahasiswa1302223057.cs",
+              "RelativeToolTip": "KPL7_KELOMPOK4\\DataMahasiswa1302223057.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:15:29.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "jurnal7_1_1302223057.json",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\jurnal7_1_1302223057.json",
               "RelativeDocumentMoniker": "KPL7_KELOMPOK4\\jurnal7_1_1302223057.json",
@@ -39,26 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataMahasiswa1302223057.cs",
-              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\DataMahasiswa1302223057.cs",
-              "RelativeDocumentMoniker": "KPL7_KELOMPOK4\\DataMahasiswa1302223057.cs",
-              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\DataMahasiswa1302223057.cs",
-              "RelativeToolTip": "KPL7_KELOMPOK4\\DataMahasiswa1302223057.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAA0wDQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T00:15:29.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\Program.cs",
               "RelativeDocumentMoniker": "KPL7_KELOMPOK4\\Program.cs",
               "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\PRAKTIKUM KPL\\KPL7_KELOMPOK4\\KPL7_KELOMPOK4\\Program.cs",
               "RelativeToolTip": "KPL7_KELOMPOK4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T23:49:23.531Z",
               "EditorCaption": ""
